@@ -1,5 +1,5 @@
 .home-page header {
-    background-image: url(../utils/img/header-img.jpg);
+    background-image: url(../utils/img/pexels-willpicturethis-2641886.jpg);
 }
 
 header {
@@ -17,7 +17,7 @@ header h1 {
 }
 
 .menu-section {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../utils/img/menu-img.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../utils/img/pexels-thiagopatrevita-1121482.jpg);
     background-size: cover;
     background-position: center;
 }

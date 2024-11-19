@@ -22,7 +22,7 @@ export function Reviews() {
                         </CardBody>
                         <CardFooter className="d-flex align-items-center">
                             <img src={Person1} className="img-fluid rounded-circle mx-3 shadow" alt="" />
-                            <CardTitle className="text-success">John Mike</CardTitle>
+                            <CardTitle className="text-success">Dush</CardTitle>
                         </CardFooter>
                     </Card>
                 </div>
@@ -37,7 +37,7 @@ export function Reviews() {
                         </CardBody>
                         <CardFooter className="d-flex align-items-center">
                             <img src={Person2} className="img-fluid rounded-circle mx-3 shadow" alt="" />
-                            <CardTitle className="text-success">Maria Cruz</CardTitle>
+                            <CardTitle className="text-success">Dinesh</CardTitle>
                         </CardFooter>
                     </Card>
                 </div>
@@ -52,7 +52,7 @@ export function Reviews() {
                         </CardBody>
                         <CardFooter className="d-flex align-items-center">
                             <img src={Person3} className="img-fluid rounded-circle mx-3 shadow" alt="" />
-                            <CardTitle className="text-success">Anna Gold</CardTitle>
+                            <CardTitle className="text-success">Raghul</CardTitle>
                         </CardFooter>
                     </Card>
                 </div>
@@ -67,7 +67,7 @@ export function Reviews() {
                         </CardBody>
                         <CardFooter className="d-flex align-items-center">
                             <img src={Person4} className="img-fluid rounded-circle mx-3 shadow" alt="" />
-                            <CardTitle className="text-success">Nick Burn</CardTitle>
+                            <CardTitle className="text-success">Kishore</CardTitle>
                         </CardFooter>
                     </Card>
                 </div>
